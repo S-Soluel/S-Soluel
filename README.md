@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S-Soluel, better known as Samuel Solheim. 
+- 👋 Hi, I’m Samuel Solheim and my tag on here is @S-Soluel.  
 - 📚 Current sophomore data analytics and computer science major at Drake University. 
 - 👀 I’m interested in enhancing my coding skills with the computer languages I already know, and working to learn other languages as well. 
 - 🌱 I’m currently learning in Python, Java, R, and SAS.
