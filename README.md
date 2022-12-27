@@ -1,10 +1,7 @@
 - Hi, I’m Samuel Solheim and my tag on here is @S-Soluel.  
 - Current sophomore at Drake University, my majors are data analytics and computer science. Additionally, I am minoring in actuarial science. 
-- The coding languages that I have experience with currently are Python, Java, R, and SAS. 
+- The coding languages that I have experience with currently are Python, Java, R, and SAS. I also have experience with MySQL, and am currently working on a project in this language. 
 
-- I’m interested in working to increase my proficiency in the coding languages I already know, as well as learning how to code in different languages. 
-- For my coursework, I am currently working in R and SAS. 
-- On my own time, I have started working through introductory courses to AWS. 
 - If you would like to reach out to me, I can be found on both Handshake and LinkedIn. 
 
 <!---
