@@ -1,5 +1,5 @@
 - Hi, I’m Samuel Solheim and my tag on here is @S-Soluel.  
-- I am currently a Junior studying at Drake University and will be graduating in Spring of 2024. 
+- I am currently a Senior studying at Drake University and will be graduating in Spring of 2024. 
 - My majors are data analytics and computer science, and I have a minor in actuarial science. 
 - The coding languages that I have experience with currently are Python, Java, R, SAS, and MySQL. Additionally, I have two projects that I am currently working on this semester. The first is a group project for a capstone course, and the second project is for my current workplace. 
 
